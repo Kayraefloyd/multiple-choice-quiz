@@ -1,0 +1,28 @@
+body{
+  background: #7851A9;
+  display:block;
+  color: black;
+  font-size: 2em;
+  font-family: 'Indie Flower';
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  color:black;
+  text-align: center;
+  display: block;
+}
+
+button {
+  text-align: center;
+  color: white;
+  background-color: transparent;
+  border: 2px solid white;
+  width: 100px;
+  height: 45 px;
+  font-family: 1em;
+  border-radius: inherit;
+  margin: 9px;
+
+}
