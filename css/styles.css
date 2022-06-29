@@ -14,15 +14,10 @@ h1 {
   display: block;
 }
 
-button {
-  text-align: center;
-  color: white;
-  background-color: transparent;
-  border: 2px solid white;
-  width: 100px;
-  height: 45 px;
-  font-family: 1em;
-  border-radius: inherit;
-  margin: 9px;
-
+#quiz {
+  text-align: left;
+  color:black;
+  font-size: smaller;
+  font-weight: bold;
+  padding-left: 10%;
 }
